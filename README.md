@@ -11,6 +11,6 @@ http://reactnative.cn/docs/0.27/embedded-app-ios.html#content
 *开启ReactNative服务的脚本 - RNSS xxxx（js文件所在文件夹  eg.RNSS ReactComponent）
 
 附带上几张效果图
-![](https://github.com/lzbxh/LearnReactNative/raw/master/show-imgs/Home.png)
-![](https://github.com/lzbxh/LearnReactNative/raw/master/show-imgs/img.png)
-![](https://github.com/lzbxh/LearnReactNative/raw/master/show-imgs/searchBar.png)
+![](https://github.com/lzbxh/LearnReactNative/raw/master/LearnReactNative/show-imgs/Home.png)
+![](https://github.com/lzbxh/LearnReactNative/raw/master/LearnReactNative/show-imgs/img.png)
+![](https://github.com/lzbxh/LearnReactNative/raw/master/LearnReactNative/show-imgs/searchBar.png)
