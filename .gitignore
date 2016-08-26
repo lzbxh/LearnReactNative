@@ -1,0 +1,4 @@
+#忽略掉node_modules文件夹
+node_modules
+#忽略掉Pods文件夹
+Pods
